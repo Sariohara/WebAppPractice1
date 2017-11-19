@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Mobile App Tester",
+    "version": "0.0.1",
+
+
+    "default_locale": "en",
+    "description": "A plain text description",
+    "icons":
+    {
+        "16": "M-AppTester1.png",
+        "48": "icons/M-AppTester1.png",
+        "128": "icons/M-AppTester1.png"
+    }
+}
