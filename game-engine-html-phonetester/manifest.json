@@ -1,4 +1,15 @@
 {
+    // Required
+    "app": {
+        "background": {
+            // Optional
+            "scripts": [
+                "background.js",
+                "jquery-3.2.1.js"
+            ]
+        }
+    },
+
     "manifest_version": 2,
     "name": "Mobile App Tester",
     "version": "0.0.1",
